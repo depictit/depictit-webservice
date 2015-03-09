@@ -1,0 +1,10 @@
+C:\Projects\depictit\depictit\bin\depictit.dll
+C:\Projects\depictit\depictit\bin\depictit.pdb
+C:\Projects\depictit\depictit\bin\depictit.xml
+C:\Projects\depictit\depictit\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\depictit\depictit\obj\Debug\depictit.Resources.resources
+C:\Projects\depictit\depictit\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\depictit\depictit\obj\Debug\GenerateResource.write.1.tlog
+C:\Projects\depictit\depictit\obj\Debug\depictit.dll
+C:\Projects\depictit\depictit\obj\Debug\depictit.xml
+C:\Projects\depictit\depictit\obj\Debug\depictit.pdb
