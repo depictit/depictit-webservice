@@ -8,3 +8,11 @@ C:\Projects\depictit\depictit\obj\Debug\GenerateResource.write.1.tlog
 C:\Projects\depictit\depictit\obj\Debug\depictit.dll
 C:\Projects\depictit\depictit\obj\Debug\depictit.xml
 C:\Projects\depictit\depictit\obj\Debug\depictit.pdb
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\bin\depictit.dll
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\bin\depictit.pdb
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\bin\depictit.xml
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\obj\Debug\depictit.Resources.resources
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\obj\Debug\depictit.vbproj.GenerateResource.Cache
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\obj\Debug\depictit.dll
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\obj\Debug\depictit.xml
+C:\Users\Test\Documents\GitHub\depictit-webservice\depictit\obj\Debug\depictit.pdb
